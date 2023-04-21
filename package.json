@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "vue": "^3.2.47",
-    "vue-month-toggle-component": "^0.0.2",
+    "vue-month-toggle-component": "^0.0.4",
     "vue-select": "^4.0.0-beta.6"
   },
   "devDependencies": {
